@@ -12,15 +12,14 @@ Visual Studio Code (VSCode) development environment that uses Docker
 Development Containers (DevContainers) and can be used to submit
 assignment in GitHub classrooms.  You will need a relatively recent
 computing system, either laptop or desktop.  It is recommended you use
-a system with at least 4GB of memory and not too old of a processor if
-possible.  You should be able to set up a VSCode DevContainer
+a system with at least 8GB of memory and not too old of a processor (Dual Core With SMT and Hardware based virtualization) if possible.  You will also need 30GB of free disk space on your machine to install all the software and run a DevContainer.  You should be able to set up a VSCode DevContainer
 environment on Intel/AMD X86_64 hardware or Mac M1/M2 Arm
 architectures, though we have not yet tested as extensively these
 instructions on the M1/M2 Arm architectures, so feedback would be
 appreciated if you set up a VSCode DevContainer on that architecture.
 You should be able to set up the needed development environment on a
 Windows, Mac or Linux operating system based machine.  Chromebooks or
-Android OS are probably not supported for this configuration.
+Android OS are not supported for this configuration.
 
 This development environment provides a set of standard development
 tools, such as C/C++ compiler, build system tools and configuration,
